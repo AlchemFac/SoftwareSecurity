@@ -1,1 +1,11 @@
 # SoftwareSecurity
+
+For this course, my client was Artemis Financial, a company that develops financial software solutions. Their concern was the security of their application and protecting sensitive client data. They requested an assessment of vulnerabilities in their system and recommendations for secure coding practices to strengthen their software.
+
+During the vulnerability assessment, I identified potential risks and documented how they could be mitigated. I believe I did well in systematically analyzing weaknesses and applying secure coding standards to address them. Secure coding is vital because it protects a company’s reputation, ensures compliance with regulations, and helps maintain customer trust. For Artemis Financial, strengthening their software security directly contributed to the reliability and safety of their services.
+
+One challenge I faced was interpreting the results of security scans and deciding which vulnerabilities required immediate attention versus long-term monitoring. This process was also helpful because it improved my ability to prioritize issues and think critically about risk management. To increase layers of security, I implemented encryption, validated inputs, and ensured secure communication protocols. In the future, I would continue using tools like dependency checks, static code analysis, and penetration testing frameworks to assess vulnerabilities and decide on appropriate mitigation techniques.
+
+To confirm that the application was both functional and secure after refactoring, I tested the software thoroughly and re-ran scans to verify no new vulnerabilities were introduced. This step was essential to ensure that fixes didn’t create unintended issues. I also used practices such as dependency management, encryption libraries, and industry-standard secure coding guidelines, which will remain useful in future assignments and professional tasks.
+
+For future employers, this project demonstrates my ability to complete a vulnerability assessment and follow through with secure coding practices. It showcases my problem-solving, attention to detail, and ability to apply industry standards, skills that are valuable for any role involving software development and security.
